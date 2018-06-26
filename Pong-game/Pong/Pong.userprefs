@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AIPaddle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AIPaddle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovePaddleLeft.cs" Line="14" Column="66" />
+      <File FileName="Assets/Scripts/MoveDownPaddle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AI2Paddle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,2 @@
+Jogo Pong feito com C#
+O executável está pronto para Mac.
